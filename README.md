@@ -8,3 +8,4 @@ A speech recognition system converts spoken language into text. It typically inv
 
 The system enables applications like voice assistants, transcription services, and hands-free controls.
 
+![image alt](https://github.com/Mustufaa/speech_recognition_system/blob/1a8a09eb6949701099beae6e04e364364be6fd59/Screenshot%20(1).png)
